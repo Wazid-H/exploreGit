@@ -18,3 +18,16 @@ body {
     margin: 20px 0;
     color: #4CAF50;
 }
+
+.blog-area {
+    display: flex;
+}
+
+.blog-item {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
